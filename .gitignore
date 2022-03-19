@@ -2,3 +2,4 @@
 /node_modules
 /src/cover-letter.svelte
 /src/resume.svelte
+/dist
