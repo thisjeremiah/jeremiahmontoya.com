@@ -11,11 +11,11 @@
     "@tailwindcss/jit": "^0.1.18",
     "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10.2.5",
-    "svelte": "^3.37.0",
+    "svelte": "^3.46.4",
     "svelte-preprocess": "^4.7.2",
     "tailwindcss": "^3.0.23",
     "typescript": "^4.2.4",
-    "vite": "^2.3.5"
+    "vite": "^2.8.6"
   },
   "dependencies": {
     "svelte-markdown": "^0.2.2"
