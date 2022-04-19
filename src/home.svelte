@@ -5,7 +5,7 @@
 
   const links = {
     github: 'https://github.com/thisjeremiah',
-    twitter: 'https://twitter.com/thisjeremiah',
+    twitter: 'https://twitter.com/jeremiahmntoya',
     linkedin: 'https://www.linkedin.com/in/jeremiah-montoya-32a9a390',
     standardvision: 'https://www.standardvision.com/svrunner-software',
   }
